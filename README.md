@@ -1,6 +1,6 @@
 # Restaurant
-<a href="https://restaurantcocoskitchen.netlify.app/">Business Website</a>
-This project appears to be a website for a restaurant named <b>"Coco's Kitchen."</b> The website consists of several sections, each serving a specific purpose. Let me describe each section briefly:
+<a href="https://restaurantcocoskitchen.netlify.app/">Link</a>
+<P>This project appears to be a website for a restaurant named <b>"Coco's Kitchen."</b> The website consists of several sections, each serving a specific purpose. Let me describe each section briefly:</P>
 
 <b> Reservation Modal Form:</b>
 <h6>The code starts with a modal form, presumably for users to make reservations.
